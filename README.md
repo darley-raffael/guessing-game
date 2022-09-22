@@ -18,4 +18,4 @@
 
 ## 🔗 Links 
 
-🎮 [**Gessing Game**](https://darley-raffael.github.io/gessing-game/)
+🎮 [**Guessing Game**](https://darley-raffael.github.io/guessing-game/)
