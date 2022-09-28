@@ -67,7 +67,12 @@ input{
     width: 5rem;
     color: #34355B;
     border-radius: .4rem 0 0 .4rem ;
-    }
+}
+/* MUDANDO A COR DO OUTLINE  DO INPUT*/
+form input:focus{
+    outline: 1px solid #6a6ad9;
+}
+
 /* RETIRANDO O SPIN BUTTON */
 input[type=number]::-webkit-inner-spin-button { 
     -webkit-appearance: none;
